@@ -9,14 +9,12 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Portfolio of things"
+    url: https://temp0st.netlify.app/
         
   - title: "Blog Posts"
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://temp0st.github.io/files/example.pdf
     
-  - title: "Guide"
-    url: /markdown/
