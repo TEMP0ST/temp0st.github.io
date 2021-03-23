@@ -1,19 +1,17 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Tech posts"
+    url: /posts/ 
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Latest projects"
+    url: /projects/    
     
   - title: "Portfolio of things"
     url: https://temp0st.netlify.app/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Data lab"
+    url: http://115.146.95.161/shiny/
     
   - title: "CV"
     url: https://temp0st.github.io/files/paper1.pdf
