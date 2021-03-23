@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Greg D'Arcy / @temp0st"
+title                    : "Greg D'Arcy | @temp0st"
 title_separator          : "-"
 name                     : &name "Greg D'Arcy"
 description              : &description "Personal website"
