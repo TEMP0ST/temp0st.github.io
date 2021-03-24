@@ -80,7 +80,11 @@ analytics:
 
 # Site Author
 author:
+<<<<<<< HEAD
   name             : "Greg D'Arcy @temp0st"
+=======
+  name             : "Greg D'Arcy | @temp0st"
+>>>>>>> 770f86d1dc1ea06393ed304f0a967bbdb30255d6
   avatar           : "profile.png"
   bio              : "Data, Analytics & Cloud "
   location         : "Melb, AU"
