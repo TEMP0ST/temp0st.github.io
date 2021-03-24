@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "@temp0st"
+title                    : "Greg D'Arcy"
 title_separator          : "-"
-name                     : &name "Greg D'Arcy"
+name                     : &name "Greg D'Arcy | @temp0st"
 description              : &description "Personal website"
 url                      : https://temp0st.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
