@@ -7,8 +7,7 @@ tags:
 - coding
 ---
 
-# Live Coding Environments
-There are a number of free online services designed to help you learn a new prohgramming language or conduct an analysise of your own data directly from your browser. Most come supported with a number of tutorials to get you started, and the best part is there's no software to install and nothing to configure on your computer. 
+There are a number of free online tools that can help you learn a new prohgramming language or conduct an analysise of your own data directly from your browser. Most come supported with a number of tutorials to get you started, and the best part is there's no software to install and nothing to configure on your computer. 
 
  
 Services
