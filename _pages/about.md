@@ -14,8 +14,6 @@ This website is my attempt to consolidate some of the projects, hacks and other 
 
 The Sands & McDougall Melbourne Directories record the expansion and development of Melbourne’s social and commercial life from 1860 to 1974. 
 
-<br>
-
 ![Sands & McDougall data points](/images/sands&mcdougall_datapoints.jpg)
 
 Digitising the directories opens ways to programmatically insert geo-spatial coordinates into these files to various levels of granularity.
