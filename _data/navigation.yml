@@ -4,7 +4,7 @@ main:
   - title: "Tech posts"
     url: /posts/ 
 
-  - title: "New projects"
+  - title: "Recent projects"
     url: /projects/    
         
   - title: "Data lab"
