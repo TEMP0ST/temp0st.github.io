@@ -2,7 +2,7 @@
 title: "Map of research sites from the Indonesian archipelago"
 excerpt: "AN interactive map created using RStudio/Leaflet.<br/><img src='/images/screenshot_indo_map_popup_sml.png'>"
 collection: project
-permalink: /project/project-1
+permalink: /project/indonesia-map
 date: "2020-11-15"
 ---
 
