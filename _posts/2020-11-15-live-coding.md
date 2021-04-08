@@ -7,23 +7,23 @@ tags:
 - coding
 ---
 
-# Live Coding Environments
+There are a number of free online tools that can help you learn a new prohgramming language or conduct an analysise of your own data directly from your browser. Most come supported with a number of tutorials to get you started, and the best part is there's no software to install and nothing to configure on your computer. 
+
+ 
+Services
+===
  
 **CloudStor SWAN** - https://www.aarnet.edu.au/network-and-services/cloud-services/cloudstor
  
 SWAN (Service for Web-based ANalysis) allows researchers to perform interactive data analysis in CloudStor using a web browser and without the need to install any software. 
 
-Jupyter Notebooks can be launched through SWAN to process research data using cloud computing services.
-Researchers can easily share their Jupyter Notebook files and data with collaborators within and between institutions through CloudStor’s file sharing capabilities.
-
-SWAN comes with a default set of code libraries for R and Python programming languages.
- 
+Researchers can easily share their Jupyter Notebook files and data with collaborators within and between institutions through CloudStor’s file sharing capabilities. SWAN comes with a default set of code libraries for R and Python programming languages.
  
  
 **RStudio Cloud** - https://rstudio.cloud/learn/guide 
-Create your analyses using RStudio directly from your browser - there is no software to install and nothing to configure on your computer. Every RStudio Cloud user gets a personal workspace.
+A project is the fundamental unit of work on RStudio Cloud. It encapsulates your R code, packages and data files and provides isolation from other analyses. 
 
-A project is the fundamental unit of work on RStudio Cloud. It encapsulates your R code, packages and data files and provides isolation from other analyses. To create a new project from an existing git repository, press the down arrow on the right side of the New Project button, and choose ‘New Project from Git Repo’
+Every RStudio Cloud user gets a personal workspace. To create a new project from an existing git repository, press the down arrow on the right side of the New Project button, and choose ‘New Project from Git Repo’
  
  
 **Repl.it** - https://repl.it
