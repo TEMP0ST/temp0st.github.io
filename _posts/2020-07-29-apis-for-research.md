@@ -2,16 +2,16 @@
 title: "APIs for use in Research: The Nuts And Bolts"
 author: "Greg D'Arcy"
 date: "2020-07-29"
-permalink: /posts/2020/11/apis-for-research
+permalink: /posts/2020/07/apis-for-research
 tags: 
 - api
 - data collection
 - web dev
 ---
 
-![](https://cpb-ap-se2.wpmucdn.com/blogs.unimelb.edu.au/dist/2/88/files/2020/07/woman-writing-on-whiteboard-3861943.jpg)
-
 Ever stop to think about how the apps on your mobile phone or tablet receive and exchange data over the Internet? The next time you check your Facebook app, look for directions using Google maps, or do your online banking, chances are these are all happening using an **Application Programming Interface** (or **API** for short). 
+
+![](https://cpb-ap-se2.wpmucdn.com/blogs.unimelb.edu.au/dist/2/88/files/2020/07/woman-writing-on-whiteboard-3861943.jpg)
 
 
 ## Getting started
