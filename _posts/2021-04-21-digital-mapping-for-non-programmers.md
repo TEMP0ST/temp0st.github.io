@@ -1,6 +1,6 @@
 ---
 title: 'Introduction to digital mapping for non-programmers'
-date: 2021-04-01
+date: 2021-04-19
 permalink: /posts/2021/04/intro-digital-mapping-for-non-programmers
 tags:
   - maps
