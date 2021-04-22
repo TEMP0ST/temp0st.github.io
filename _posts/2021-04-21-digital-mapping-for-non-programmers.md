@@ -6,11 +6,11 @@ tags:
   - maps
 ---
 
-## Introduction to digital mapping for non-programmers
+This worksop is an **introduction to digital mapping for researchers in the Humanities, Arts and Social Sciences (HASS)**. We will provide an overview of some of the diverse techniques in humanities mapping, examine common geospatial terms and techniques, and look at some basic tools that support digital mapping. 
 
-This session is for graduate students and early career researchers (ECR) interested in using web mapping systems in their humanities research. We will provide an overview of some of the diverse techniques in humanities mapping, examine common geospatial terms and techniques, and look at some basic tools that support digital mapping. No prior experience with coding, web development or GIS is needed
+*No prior experience with coding, web development or GIS is required.*
 
-This forms part of a training series delivered through the **Social & Cultural Informatics Platform** [(SCIP)](https://scip.unimelb.edu.au) at The University of Melbourne. 
+This session forms part of a training series delivered through the **Social & Cultural Informatics Platform** [(SCIP)](https://scip.unimelb.edu.au) at The University of Melbourne. 
 
 
 ---
