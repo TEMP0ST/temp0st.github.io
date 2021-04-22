@@ -1,12 +1,12 @@
 ---
 title: 'Try It Yourself: Create a Leaflet Storymap with Google Sheets'
 date: 2021-04-01
-permalink: /posts/2021/04/leaflet-map-and-google-sheets
+permalink: /posts/2021/04/build-leaflet-map-usinggoogle-sheets
 tags:
   - maps
 ---
 
-# Try It Yourself: Create a Leaflet Storymap with Google Sheets
+## Try It Yourself: Create a Leaflet Storymap with Google Sheets
 
 This tutorial is taken from the step-by-step guide in [Hands-On Data Visualization](https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html). The Leaflet Storymaps code template is designed to show a point-by-point guided tour, with a scrolling narrative to display text, images, audio, video, and scanned map backgrounds.
 
