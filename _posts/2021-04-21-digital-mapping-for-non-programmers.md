@@ -10,11 +10,12 @@ This worksop is an **introduction to digital mapping for researchers in the Huma
 
 *No prior experience with coding, web development or GIS is required.*
 
-This session forms part of a training series delivered through the **Social & Cultural Informatics Platform** [(SCIP)](https://scip.unimelb.edu.au) at The University of Melbourne. 
+This session forms part of a training series delivered through the [Social & Cultural Informatics Platform (SCIP)](https://scip.unimelb.edu.au) at The University of Melbourne. 
 
 
 ---
 ## Session Outline
+
 | Time        | Section  | 
 | ----------- | --------- |
 | 2:00–2:10 | Introduction |
@@ -22,7 +23,7 @@ This session forms part of a training series delivered through the **Social & Cu
 | 2:30–2:50 | Try It Yourself: Geocoding & Google MyMaps | 
 | 2:50–3:00 | Storymaps | 
 | 3:00-3:30 | Q&A |
-| 3:00–3:30 | Try It Yourself (Extension): Create a Leaflet Storymap | 
+| 3:00–3:30 | (Extension) Try It Yourself: Create a Leaflet Storymap | 
 
 
 <br>
