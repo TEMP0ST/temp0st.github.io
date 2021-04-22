@@ -16,13 +16,14 @@ This session forms part of a training series delivered through the **Social & Cu
 ---
 ## Session Outline
 | Time        | Section  | 
-| ----------- | ---------|
+| ----------- | --------- |
 | 2:00–2:10 | Introduction |
 | 2:10–2:30 | Why map? What makes a good map? | 
 | 2:30–2:50 | Try It Yourself: Geocoding & Google MyMaps | 
 | 2:50–3:00 | Storymaps | 
-| 3:00–3:30 | Try It Yourself (Extension): Create a Leaflet Storymap | 
 | 3:00-3:30 | Q&A |
+| 3:00–3:30 | Try It Yourself (Extension): Create a Leaflet Storymap | 
+
 
 <br>
 
@@ -99,9 +100,7 @@ Compared to this map:
 
 Maps are good for disseminating research, as they can convey information at a glance in a way that a long text cannot. Maps provide a visualisation that enables us to see patterns we would not have otherwise seen and potentially make research discoveries.
 
-However while it's easy to get lost in the tech-wizardry and potential of creating stunning interactive maps, it's important not to loose sight of the focus of the research questions you are trying to answer. Most analysis, whether spatial or not, begins with asking questions or querying our data. 
-
-And like all *data visualisations* it's important to consider the purpose, use and intended audience for the maps you create.
+However while it's easy to get lost in the tech-wizardry and potential of creating stunning interactive maps, it's important not to loose sight of the focus of the research questions you are trying to answer. Most analysis, whether spatial or not, begins with asking questions or querying our data. And like all *data visualisations* it's important to consider the purpose, use and intended audience for the maps you create.
 
 
 <br>
@@ -114,10 +113,7 @@ And like all *data visualisations* it's important to consider the purpose, use a
 
 <br>
 
-Schwabish (2021) suggests maps are often made simply because the creator has geographic data, not because the map is the best medium for that content. There are many ways to present geographic data, so we should always take a step back and consider whether it is the right visualisation choice.
-
-
-Is a map truly the best way to present geographic data? Or are you just showing where people live?
+Schwabish (2021) suggests maps are often made simply because the creator has geographic data, not because the map is the best medium for that content. There are many ways to present geographic data, so we should always take a step back and consider whether it is the right visualisation choice. Is a map truly the best way to present geographic data? Or are you just showing where people live?
 
 ![](https://i.imgur.com/3L6IuxT.png) 
 
@@ -159,7 +155,6 @@ What are the spatial elements in a research question/project/collection:
 - Can you attach your data to a place?
 - Can you attach a place to your data? ([Digital Mapping in the Humanities. Grant, 2018.](http://bit.ly/DM_KG))
 
-<br>
 
 Mapping tools work best with **well structured data**. Inaccuracies can creep in due to data entry, location ambiguities, and changes that have occured over time.
 
@@ -167,8 +162,6 @@ Mapping tools work best with **well structured data**. Inaccuracies can creep in
 ![](https://i.imgur.com/AOjyRKM.png)
 
 ([Dougherty & Ilyankou, 2021](https://handsondataviz.org/clean.html))
-
-<br>
 
 On average data scientists can spend up to 40-45% of their time in projects just cleaning and preparing data for analysis [Kaggle ML & DS Survey, 2018. Machine Learning and Data Science Survey (n=23,859)](https://www.kaggle.com/kaggle/kaggle-survey-2018/)
 
