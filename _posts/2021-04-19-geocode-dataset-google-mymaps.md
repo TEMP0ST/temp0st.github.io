@@ -1,22 +1,23 @@
 ---
 title: 'Try It Yourself: Geocode a dataset and display with Google MyMaps'
 date: 2021-04-01
-permalink: /posts/2021/04/geocode-dataset-google-mymaps
+permalink: /posts/2021/04/geocode-dataset-and-display-google-mymaps
 tags:
   - maps
 ---
 
-## Objective
+## Try It Yourself: Geocode a dataset and display with Google MyMaps
+
 This tutorial goes through the process of geocoding addresses in an existing dataset and then shows how to import the dataset into Google MyMaps.
 
-#### Requirements
+### Requirements
 You will need the following to complete this exercise:
 
 - Google account (if you don’t have one already)
 - Google Sheet / Google My Map
 - Geocode Add-on 
 
-#### Set-up & Install 
+### Set-up & Install 
 
 We will need to install a particular geocoder to complete this task. [**Geocode**](https://workspace.google.com/u/0/marketplace/app/geocode_by_awesome_table/904124517349) is a free tool that helps you get latitudes & longitudes from addresses in a Google Sheet. 
 
