@@ -6,9 +6,7 @@ tags:
   - maps
 ---
 
-## Try It Yourself: Geocode a dataset and display with Google MyMaps
-
-This tutorial goes through the process of geocoding addresses in an existing dataset and then shows how to import the dataset into Google MyMaps.
+This tutorial explains the **process of geocoding a list of addresses in an existing dataset and importing the new dataset into Google MyMaps**.
 
 ### Requirements
 You will need the following to complete this exercise:
