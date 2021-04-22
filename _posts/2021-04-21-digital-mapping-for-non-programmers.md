@@ -8,7 +8,7 @@ tags:
 
 ## Introduction to digital mapping for non-programmers
 
-This session is aimed at graduate students and early career researchers (ECR) interested in using web mapping systems in their humanities research. We will provide an overview of some of the diverse techniques in humanities mapping, examine common geospatial terms and techniques, and look at some basic tools that support digital mapping. No prior experience with coding, web development or GIS is needed
+This session is for graduate students and early career researchers (ECR) interested in using web mapping systems in their humanities research. We will provide an overview of some of the diverse techniques in humanities mapping, examine common geospatial terms and techniques, and look at some basic tools that support digital mapping. No prior experience with coding, web development or GIS is needed
 
 This forms part of a training series delivered through the **Social & Cultural Informatics Platform** [(SCIP)](https://scip.unimelb.edu.au) at The University of Melbourne. 
 
@@ -33,11 +33,11 @@ Through out the centuries maps have been a form of technology humans have used t
 
 ![](https://i.imgur.com/lpjcRAg.jpg)
 
-Today maps are everywhere you look. We use maps to find restaurants, roads, directions to places, countries, population, and weather. 
+Today maps are everywhere you look. We use maps to find restaurants, roads, directions to places, countries, population, and weather. Maps can visualise a lot of data quickly and effectively.
 
 ![](https://i.imgur.com/tQNXV9i.jpg)
 
-Maps help us to learn about our world. Digital maps  are created using *spatial data*. Spatial data is data that has a locational component that is connected to some place on Earth.
+The use of maps has to do with the visual representation of space. Digital maps  are created using *spatial data*, that is data that has a locational component that is connected to some place on Earth.
 
 ![](https://i.imgur.com/xNN1HOo.png)
 
@@ -95,22 +95,29 @@ Compared to this map:
 ![](https://i.imgur.com/5Xwz8kd.png)
 
 <br>
+<br>
 
 Maps are good for disseminating research, as they can convey information at a glance in a way that a long text cannot. Maps provide a visualisation that enables us to see patterns we would not have otherwise seen and potentially make research discoveries.
 
+However while it's easy to get lost in the tech-wizardry and potential of creating stunning interactive maps, it's important not to loose sight of the focus of the research questions you are trying to answer. Most analysis, whether spatial or not, begins with asking questions or querying our data. 
+
+And like all *data visualisations* it's important to consider the purpose, use and intended audience for the maps you create.
+
+
 <br>
 
-### Maps as a form of data visualisation
+### Should it be a map?
 
-<br>
+
 
 > 'A map is not just a picture—it’s also the data behind the map, the methodology used to collect and parse that data, the people doing that work, the choices made in terms of visualization and the software used to make them'. [When Maps Lie](https://www.bloomberg.com/news/articles/2015-06-25/how-to-avoid-being-fooled-by-bad-maps)
 
 <br>
 
-While it's easy to get lost in the tech-wizardry and potential of creating stunning interactive maps, it's important not to loose sight of the focus of the research questions you are trying to answer. Most analysis, whether spatial or not, begins with asking questions or querying our data. 
+Schwabish (2021) suggests maps are often made simply because the creator has geographic data, not because the map is the best medium for that content. There are many ways to present geographic data, so we should always take a step back and consider whether it is the right visualisation choice.
 
-<br>
+
+Is a map truly the best way to present geographic data? Or are you just showing where people live?
 
 ![](https://i.imgur.com/3L6IuxT.png) 
 
@@ -118,7 +125,30 @@ While it's easy to get lost in the tech-wizardry and potential of creating stunn
 
 <br>
 
-And like all data visualisations it's also important to consider the purpose, use and intended audience for your map.
+
+
+**Choropleth maps** are perhaps the most familiar data map, as they display proportionate quantities and magnitudes, with smaller numbers corresponding to lighter colours and larger numbers to darker colours. 
+
+Choropleth maps can display data very effectively, but can also cause problems if used improperly (generally when the geographical areas are not uniform in size or population, and population is not evenly distributed within them).
+
+The following map shows the number of driving deaths where alcohol-impairment played a role. Do Montana and North Dakota rank so high because of the high rate of rural population, meaning people tend to drive to bars? 
+
+![](https://i.imgur.com/eOKhfm7.png)
+
+<br>
+
+![](https://i.imgur.com/LugxRsj.png)
+
+<br>
+
+When creating a choropleth map the first decision to be made is how you intend to display our data, or the choice of intervals (or “bins”) that will shade the geographic units. In this approach, the map creator has choosen the bin cutoffs based on an arbitrary criterion (Schwabish 2021).
+
+We should stop to anlyse maps we see with a critical eye. Some things to look out for:
+
+- Accuracy of Titles and Labels (the map title actually supports what is displayed)
+- Where did the source of the data on a map come from? Is that a trustworthy source? 
+- Colour and size can be used to highlight or hide something. It's easy to assume something is bad if it’s coloured in red.
+- the way the data is distributed (where lighter means fewer and darker means more) can be misleading or obscure reality. ([When Maps Lie](https://www.bloomberg.com/news/articles/2015-06-25/how-to-avoid-being-fooled-by-bad-maps))
 
 <br>
 
@@ -132,7 +162,6 @@ What are the spatial elements in a research question/project/collection:
 <br>
 
 Mapping tools work best with **well structured data**. Inaccuracies can creep in due to data entry, location ambiguities, and changes that have occured over time.
-
 
 
 ![](https://i.imgur.com/AOjyRKM.png)
@@ -150,6 +179,7 @@ On average data scientists can spend up to 40-45% of their time in projects just
 
 [This tutorial walks through the process of geocoding a list of addresses in an existing dataset and then goes through how to import the dataset into Google MyMaps](https://hackmd.io/@gregarious09/S1aW5o5Ld).
 
+<br>
 
 ---
 ## Some key terms 
