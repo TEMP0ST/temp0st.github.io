@@ -6,9 +6,7 @@ tags:
   - maps
 ---
 
-## Try It Yourself: Create a Leaflet Storymap with Google Sheets
-
-This tutorial is taken from the step-by-step guide in [Hands-On Data Visualization](https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html). The Leaflet Storymaps code template is designed to show a point-by-point guided tour, with a scrolling narrative to display text, images, audio, video, and scanned map backgrounds.
+This tutorials shows how to **create a Leaflet Storymap with Google Sheets**. The tutorial is taken from the step-by-step guide in [Hands-On Data Visualization](https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html). The Leaflet Storymaps code template is designed to show a point-by-point guided tour, with a scrolling narrative to display text, images, audio, video, and scanned map backgrounds.
 
 ![](https://i.imgur.com/6EwZxL5.gif)
 
