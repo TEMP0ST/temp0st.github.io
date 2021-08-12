@@ -1,8 +1,8 @@
 ---
-title: "Process Drawing Apps"
+title: "Process Mapping Apps"
 author: "Greg D'Arcy"
-date: "2020-07-29"
-permalink: /posts/2021/08/concept-mapping
+date: 2021-08-10
+permalink: /posts/2021/08/process-mapping
 tags: 
 - whiteboard
 - canvas
@@ -13,9 +13,7 @@ tags:
 - Lean
 ---
 
-# Process Drawing Apps
-
-I'm working on a number of use cases for a sensitive data service. Sorting through my bookmarks I founds a swag of process & mind mapping apps. 
+I'm currently working on a number of use cases for a sensitive data service. Sorting through my bookmarks I founds a swag of process & mind mapping apps. 
 
 ## Concept mapping
 
