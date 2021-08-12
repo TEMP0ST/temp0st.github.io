@@ -1,8 +1,8 @@
 ---
-title: 'Process Mapping Apps'
-author: 'Greg D'Arcy'
+title: "Process Mapping Apps"
+author: "Greg D'Arcy"
 date: 2021-08-10
-permalink: /posts/2021/08/process-mapping
+permalink: /posts/2021/08/process-mapping-apps
 tags: 
 - whiteboard
 - canvas
