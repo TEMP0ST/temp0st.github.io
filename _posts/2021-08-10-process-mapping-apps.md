@@ -1,6 +1,6 @@
 ---
-title: "Process Mapping Apps"
-author: "Greg D'Arcy"
+title: 'Process Mapping Apps'
+author: 'Greg D'Arcy'
 date: 2021-08-10
 permalink: /posts/2021/08/process-mapping
 tags: 
@@ -13,36 +13,37 @@ tags:
 - Lean
 ---
 
-I'm currently working on a number of use cases for a sensitive data service. Sorting through my bookmarks I founds a swag of process & mind mapping apps. 
+I'm currently working on a number of use cases for a sensitive data service. Sorting through my bookmarks I founds a swag of **free process & mind mapping apps** I had tucked away for a rainy day. 
 
 ## Concept mapping
 
-https://www.mindmeister.com/
+[mindmeister.com](https://www.mindmeister.com)
 
-https://miro.com
+[miro.com](https://miro.com)
 
-https://app.diagrams.net/
+[app.diagrams.net](https://app.diagrams.net)
 
-https://excalidraw.com/
+[excalidraw.com](https://excalidraw.com)
 
-https://online.visual-paradigm.com
+[online.visual-paradigm.com](https://online.visual-paradigm.com)
 
-https://bubbl.us/
+[bubbl.us](https://bubbl.us/)
 
-https://cmap.ihmc.us/
+[cmap.ihmc.us](https://cmap.ihmc.us/)
 
-https://graphviz.org/
+[graphviz.org](https://graphviz.org/)
 
-https://www.autodraw.com/ 
+[autodraw.com](https://www.autodraw.com)
 
-https://sketch.io/sketchpad/en/
+[sketch.io](https://sketch.io/sketchpad/en/)
+
 
 <br>
 
 ### Applications Mapping
 
-https://www.cloudcraft.co/
+[cloudcraft.co](https://www.cloudcraft.co)
 
-https://www.lucidchart.com/pages/
+[lucidchart.com](https://www.lucidchart.com/pages/)
 
 <br>
