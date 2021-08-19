@@ -8,7 +8,8 @@ main:
     url: /projects/    
         
   - title: "Data lab"
-    url: http://env-4548536.us.reclaim.cloud/
+    url: http://115.146.95.161/shiny/
+    # url: http://env-4548536.us.reclaim.cloud/
     
   - title: "Archive"
     url: https://temp0st.netlify.app/    
