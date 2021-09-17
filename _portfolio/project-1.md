@@ -6,8 +6,10 @@ permalink: /project/indonesia-map
 date: "2020-11-15"
 ---
 
-This map was created as part of the "Gender, collective action and governance in rural Indonesia" project.  The research team investigated women’s collective influence on governance, development and broader structures of power in rural Indonesia,
+![](/images/screenshot_indo_map_popup_sml.png)
 
-![](/images/screenshot_indo_map_popup.png)
+This map was created as part of the "Gender, Collective Action and Governance in Rural Indonesia" project.  The project investigated women’s collective influence on governance, development and broader structures of power in rural Indonesia. The research team wanted the interactive map as a way to explore case studies about pathways of change and life stories of women from research sites across the Indonesian archipelago.
 
-[Visit the project website](https://demisetara.org/womensaction/) 
+[View the project website and map](https://demisetara.org/womensaction/interactive-map/) 
+
+<br>
