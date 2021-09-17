@@ -1,8 +1,8 @@
 ---
 title: "Flexdashboard WIP"
-excerpt: "WIP for Vic Crime data and R's Flexdashboard"
+excerpt: " A Work in Progress for using Vic Crime data and Flexdashboard"
 collection: project
-permalink: /project/flexdashboard
+permalink: /project/crime-stats
 date: "2021-09-18"
 ---
 
@@ -11,3 +11,4 @@ A WIP experimenting with R's [Flexdashboard package](https://pkgs.rstudio.com/fl
 Looking to use some [Vic Crime Stats](https://www.crimestatistics.vic.gov.au/) to play with and geo-code.
 
 <br>
+
