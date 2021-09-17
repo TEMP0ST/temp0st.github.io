@@ -6,9 +6,12 @@ permalink: /project/crime-stats
 date: "2021-09-18"
 ---
 
-A WIP experimenting with R's [Flexdashboard package](https://pkgs.rstudio.com/flexdashboard). See also [RStudio Blog](https://blog.rstudio.com/2016/05/17/flexdashboard-easy-interactive-dashboards-for-r/).
+This map was created as part of the "Gender, Collective Action and Governance in Rural Indonesia" project. The project investigated women’s collective influence on governance, development and broader structures of power in rural Indonesia. 
 
-Looking to use some [Vic Crime Stats](https://www.crimestatistics.vic.gov.au/) to play with and geo-code.
+[![Indonesian archipelago](/images/screenshot_indo_map_popup_sml.png)](https://demisetara.org/womensaction/interactive-map)
+
+The research team requested an interactive map as a way to explore case studies about pathways of change and life stories of women from research sites across the Indonesian archipelago. 
+
+[View the project website and map](https://demisetara.org/womensaction/interactive-map/) 
 
 <br>
-
