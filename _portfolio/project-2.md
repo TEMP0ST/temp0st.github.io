@@ -3,7 +3,7 @@ title: "Author website"
 excerpt: "An Author website built using R's blogdown package, Github and Netlify<br/><img src='/images/netlify_sml.png'>"
 collection: project
 permalink: /project/netlify-website
-date: "2021-09-05"
+date: "2021-09-08"
 ---
 
 This website was created using R's blogdown package, Github and Netlify. The site uses a [Hugo theme](https://github.com/onweru/hugo-swift-theme) created by [weru](https://github.com/onweru).
