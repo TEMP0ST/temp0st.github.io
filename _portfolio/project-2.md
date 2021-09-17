@@ -6,7 +6,7 @@ permalink: /project/netlify-website
 date: "2021-09-05"
 ---
 
-This website was created using R's blogdown package, Github and Netlify. The site uses a [Hugo theme](https://github.com/onweru/hugo-swift-theme) created by [@weru](https://github.com/onweru).
+This website was created using R's blogdown package, Github and Netlify. The site uses a [Hugo theme](https://github.com/onweru/hugo-swift-theme) created by [weru](https://github.com/onweru).
 
 [![website](/images/netlify_sml.png)](https://taniachandler.netlify.app)
 
